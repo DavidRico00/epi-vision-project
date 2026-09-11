@@ -31,7 +31,6 @@ epi-vision-project/
 │   └── src/
 ├── docs/
 │   ├── plan-estudio-vision-artificial-react.md   # plan de estudio y progreso módulo a módulo
-│   └── teoria-vision-react.md                     # teoría y ejemplos explicados
 └── README.md
 ```
 
