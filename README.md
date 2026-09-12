@@ -69,7 +69,6 @@ npm install
 npm run dev
 ```
 
-Servidor de desarrollo disponible en `http://localhost:5173`.
 
 ## 📄 Licencia
 
